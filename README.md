@@ -1,2 +1,2 @@
 # Beginner-Python-Course
-Codes containing pbasic python
+Codes containing basic python
